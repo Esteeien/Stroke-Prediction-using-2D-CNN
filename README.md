@@ -1,3 +1,4 @@
+Publications: https: https://www.espublisher.com/journals/articledetails/1685/ | https://link.springer.com/chapter/10.1007/978-981-96-5729-2_33
 # Stroke-Classification-Using-2DCNN 
 Stroke-Classification-Using-2-D-Convolutional-Neural-Networks
 ## Version 1.0
